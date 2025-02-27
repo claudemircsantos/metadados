@@ -20,7 +20,7 @@ Com essa ferramenta, profissionais que trabalham com análise de arquivos de ima
 
 ## Como Usar  
 
-1. **Instalaçã**: Baixe o plugin, crie a pasta **Metadados** na pasta **plugins** do **ImageJ**;  
+1. **Instalação**: Baixe o plugin, crie a pasta **Metadados** na pasta **plugins** do **ImageJ**;  
 2. **Acesso ao plugin**: No menu do **ImageJ**, vá até **Plugins > Metadados**, clique em **ExifTool**;  
 3. **Abrindo o imagem**: Carregue o arquivo desejada e clique em **OK**.  
 4. **Visualização e exportação**: Analise os metadados extraídos na interface e, se necessário, exporte-os para o formato **CSV**.  
